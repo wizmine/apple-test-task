@@ -1,0 +1,158 @@
+.slide-show {
+  width: 100%;
+  height: 100%;
+  margin-top: 80px;
+  padding: 0px 60px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &__movie {
+    position: relative;
+    height: 480px;
+    border-radius: 8px;
+    background: #fff;
+
+    &-image {
+      height: 480px;
+    }
+
+    &-info {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+      position: absolute;
+      top: 6px;
+
+      &-name {
+        color: #1a1a1a;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 30px;
+      }
+
+      &-genre {
+        color: #1a1a1a;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px;
+      }
+    }
+
+    &-btn {
+      display: flex;
+      height: 48px;
+      padding: 0px 24px;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      position: absolute;
+      right: 0px;
+      bottom: 0px;
+      border-radius: 12px;
+      border: 1px solid #fff;
+      color: white;
+      background: rgb(40, 40, 40);
+      box-shadow: 0px 4px 24px -4px rgba(0, 0, 0, 0.16);
+
+      &-text {
+        color: #e8e8e8;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 22px;
+        text-transform: capitalize;
+      }
+    }
+  }
+
+  &__rectangle {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 88px;
+    height: auto;
+
+    &-image {
+      position: absolute;
+      height: 480px;
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.08);
+    }
+
+    &-blur {
+      position: absolute;
+      width: 100%;
+      height: 480px;
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.08);
+      backdrop-filter: blur(4px);
+    }
+
+    &-text {
+      transform: rotate(-90deg);
+      color: #fff;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 30px;
+      white-space: nowrap;
+    }
+  }
+}
+
+@media screen and (max-width: 1370px) {
+  .slide-show {
+    padding: 0px 20px;
+
+    &__movie {
+      height: 120px;
+
+      &-info {
+        gap: 0px;
+        top: 8px;
+
+        &-name {
+          font-size: 6px;
+          line-height: 0px;
+        }
+
+        &-genre {
+          font-size: 4px;
+        }
+      }
+
+      &-image {
+        width: 200px;
+        height: 120px;
+      }
+
+      &-btn {
+        height: 28px;
+        padding: 0px 14px;
+      }
+    }
+
+    &__rectangle {
+      width: 30px;
+
+      &-image {
+        height: 120px;
+        width: 30px;
+      }
+
+      &-blur {
+        width: 30px;
+        height: 120px;
+      }
+
+      &-text {
+        font-size: 10px;
+      }
+    }
+  }
+}

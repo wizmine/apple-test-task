@@ -1,0 +1,152 @@
+.header {
+  padding: 40px 60px 0px 60px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 24px;
+
+  &__left-con {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex: 1 0 0;
+
+    &-home {
+      color: #181818;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      text-transform: capitalize;
+    }
+
+    &-products {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+  }
+
+  &__logo {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    cursor: pointer;
+  }
+
+  &__right-con {
+    display: flex;
+    padding: 0px 24px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    flex: 1 0 0;
+
+    &-search {
+      display: flex;
+      width: 344px;
+      height: 48px;
+      padding: 0px 16px;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      background: rgba(255, 255, 255, 0.36);
+      backdrop-filter: blur(8px);
+
+      &-image {
+        width: 24px;
+        height: 24px;
+        flex-shrink: 0;
+        cursor: pointer;
+      }
+
+      &-input {
+        flex: 1 0 0;
+        color: #000000;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: capitalize;
+        background: none;
+      }
+
+      &-input:hover {
+        border: 0;
+      }
+    }
+
+    &-cart {
+      display: flex;
+      width: 48px;
+      height: 48px;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      background: rgba(255, 255, 255, 0.36);
+      backdrop-filter: blur(8px);
+
+      &-image {
+        width: 24px;
+        height: 24px;
+        flex-shrink: 0;
+        cursor: pointer;
+      }
+    }
+
+    &-profile {
+      display: flex;
+      width: 48px;
+      height: 48px;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      background: rgba(255, 255, 255, 0.36);
+      backdrop-filter: blur(8px);
+
+      &-image {
+        width: 24px;
+        height: 24px;
+        flex-shrink: 0;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  .header {
+    padding: 0;
+    flex-direction: column-reverse;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .header {
+    &__right-con {
+      gap: 0px;
+
+      &-search {
+        width: 244px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .header {
+    &__left-con {
+      gap: 10px;
+    }
+
+    &__right-con {
+      padding: 0;
+    }
+  }
+}

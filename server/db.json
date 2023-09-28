@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "name": "All Products",
+      "items": [
+        {
+          "name": "Apple Watch",
+          "price": 399,
+          "image": "https://s3-alpha-sig.figma.com/img/9c63/974e/0605bfb3c19c8d7f377422e110c8214b?Expires=1696809600&Signature=K3u3alURNfnfr3naRBa66zSLUKWXI0XW6jwTXLO0jWY8rQyC24c4qWJpGdFKwfcC7zHEu8FDOUEvQ88W64UohGwhnNDWykDJv~x~KFBVuTxELnzgf8pOCnY~6uJ0T9gnLIjfOXzECxflFzsgSHHXsibyDga-QmRhs6S-2wXcCPjMZXogLrpmLIFMr1YyAqSHe6iCG9wBJJ9aiFL98SyGi1ERw0JyidaqYvPaAeOLGHnbzfZsNCvvswvjYr~inTswO0UV~Q4UkJT9RB1TDjJ2L0opePV6w5OTTRJOvOfHjGnbcaBQQU4MQud0yWLdVmu9Jt5CaB3HW4xRqMFAZch-6w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "MacBook Air 15",
+          "price": 1299,
+          "image": "https://s3-alpha-sig.figma.com/img/c1e4/9c86/ecc78cbd2891a8dffd62b060be39571c?Expires=1696809600&Signature=oeujsl~QSkBI2CBCCz98qettCBsZ7epbxgSrqLPNOBtC5W7p~G1Ss9YCQwryplMm91MddBG4LV8mFdC0dQC6rHUfmM00rS6Atz6tGLnEr-jWluPo0pxq289S7jgmiRfAe74AQ~znroIPCXaw9ipWwpgwxHaCuaak0Y7j9P1kPkh7L~E3TjPI3dvZEwie2IWy0G40~Afwqee35mlB9Ubq79iGXw7kdqKsZncvTJ8lthadcxiA8JvHwmeQlpEqahpM-x0ZnvIdC-1~8WwBMwUAv0Vm-gMgzQeacNFg9qfUi30z~Y1zsm0UallZ2702zRL2NR-RE4JT3~NBYBC0kYMllg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPhone 12",
+          "price": 599,
+          "image": "https://s3-alpha-sig.figma.com/img/e239/a0ca/277ad8b145455ac53a58cd0378c5b4b2?Expires=1696809600&Signature=l1C4ZDMwwXCrU2-NeZ4okLv0JA1-Thoz6tuL5eozew5ReKJ013TRNkl-zw26ECmjXbaJNXDBBfQy4XlwKHPpJQnWSRyn0fQ~Z2jRMI4zTQ8wRIyi1ErJ--HP~5p2uUh7GNiTLo8Vm8rp~BvXWpZp6zPxo9~39bpxTb5TfnRpB0ZscshonRKgGD8fMWa8t4lzYXvICN1dv7Ec24vgfZCKnodz5lJ83IyvIcnrI6G1Ri1oEN1DpPzJfZADWbfqdLso8OT8RRMI5XtRTqsEhato8ydE91B-KXqTwihLlG-lFJ1DppWtFCkp4aETCmARWDewHM-5MXeytuRy7Dcs~iwosg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "AirPods 3rd Gen",
+          "price": 179,
+          "image": "https://s3-alpha-sig.figma.com/img/fceb/207b/959d40e88c6f6742485c283a59970689?Expires=1696809600&Signature=XDa5MkLPZFpJ02YI-fFknHwrHl0-iJwO6hC7umSy~5b0E5j2OqhoEs0LKujH18BfJIMlr63u8FTArpXtm5ySknVXh4ia9A~208hhAQPsfl2HzMEcm-U3wmPRTPNVfx1~RmjFpX6rpxhLipA1RPlOfSqGFkgSTldcS4l4E6pwKCIETI7IQ6ULwJsRpDoLEnx-gXsEbhyDLCwRIhFkwLjLOyUslHdxxqDksig-t7AV0NbBFnUxMrj3TiYx~8ScmJ1kYKfaSdUuivRHydhFDJD8CujPGJYVG338g3Q0b0~40nzYxw0W80NKpTQuB7egLzC5hvQEfBaoXJTTU~3rucJwrA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "HomePod",
+          "price": 299,
+          "image": "https://s3-alpha-sig.figma.com/img/c10b/7b17/9284efca9d61a83e0fcebeeaa78cbb42?Expires=1696809600&Signature=RpECJJCo5FQpo-i4FtOCZ9m4ZrQur0TL96KGZ1boTFxTaW2Rk6CLB9GglzRMxQvSjDasOHgClfh~KQlbXdSk0rnTa9EN5c-wuGpXFuzeE2MFryMSHbP1WE0AY~RqtOb7ilONvGkyBSzaILBZ6p~IcpynctEXeK7q1qZhJc5fWg6YYBIuPYASOi-qrnhPryq2FwsqBsr-9HLK5VFA5Mc9Vajuln3H8wDbdXocC9Si67YIvCHm5rb6wBbqDVoAyUtM4wQmHzmoIUWdDeSUWfVOBC7IwYF~AfyxVYBX8lQZBRbhXpsk2qFRRYuBTOudp659yUgARr-PBtn0jaMxjrL2fg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPhone 13",
+          "price": 599,
+          "image": "https://s3-alpha-sig.figma.com/img/f512/544e/889ffba42bbecdb8ef9160788f20fc85?Expires=1696809600&Signature=jDffS8wQgHUlDjTLxE7ApoohzDkT3-y4fESdwm7EwaWfJ094miiWnTODRCOWhLw5~9Jgm-~tC~TgfnL1q3zuFbroAhyMIgWYcLcaNc2yDhKUXnmVsWdnSuYL7tOnQWL4TJPGBR5SDIMCYg2wVXTKDRvU1i5Wqj3KaX~zCTiygwcdE2Sl5FQyHo36sjOSreg3xDwbT~lOjZStkLk7-K36z32ln6AMfMelLqR18lZasrv~KM1xNtVM5T3hnc8yN0ZHOg2wVPJFWBNq1PspMKqB~o0rzOSScCl~0oJflPtuZyE~CYhbfhRQ88qnDCBV4LBTeN9U0SKW~8Rg9i5R8Mm2SQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "Apple TV 4K",
+          "price": 129,
+          "image": "https://s3-alpha-sig.figma.com/img/6c73/09ca/cebc2c166b51694a9f6962b65882cea1?Expires=1696809600&Signature=JvpAWnCy7obyzxvczTj4PHkUnqYwJbTAf0VNWPTQQAz06aUY9aVwdldnINzlq9133vDOFBG~VsuVWD5~ddqsHb643NEM6USoGzlBnKd~InHF3aeAlwwflWuu82Q1HEqwlaI7fd6HKCgC9wxylTvkcYSp5S4MTrEjVD8WGm-qXdo4g048jTy5~klMbxxXTznJdzMNm-7fBOFRn41J70~JCfjZmtxgH408C0Z1LlWF9La8TX9urnrrnAMBajIBIjHa7mJz2yDTwZLCsRcLFKAfdPAob~WjzZq7KYjP61iS5RwqJAECsRw-wqn82IG9nEVKojKlucKeUSbtqXGVX1jHCw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPad Pro",
+          "price": 749,
+          "image": "https://s3-alpha-sig.figma.com/img/256f/a7c9/3e602da63b5298957baf979cb3901423?Expires=1696809600&Signature=nkiWmPGL-ioZ~upWlqBFetZRYg561PCibwfoP1VW~uBEPqGgpHGHuPH18oAtRdxQwO2QomvElnVn9zA~gFZbZp6qTL0O-uqSLdv6QaTVkNItwCHahC~Rcdjjwp2rA2OgIJnS8BGFukN0biH714UmYx0MeZrThFOYTFbJwz76aN4eZG6tj5YeRA23XEZoEpKsqPAY4lzBeiYfaMRLgRJ0zVpePOoyvLl9haGHTjY1T3GW215c0igzD5KcJmOtSpqS8PoXBkWd99Qx7JqEM0tErv9qBa7895HTLrWD6~jRpONntxfebmYW2CzqccVM6TzsuFjWQlnG2f3ZgPV31Q2TFA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        }
+      ]
+    },
+    {
+      "name": "iPhone",
+      "items": [
+        {
+          "name": "iPhone 14 Pro",
+          "price": 999,
+          "image": "https://s3-alpha-sig.figma.com/img/e643/2752/937cd54d44c07bc05da82290ba7c3b0c?Expires=1696809600&Signature=Ao-h~cRiNn~HB-JwlkUf0ubLYEjCHrg-0TvWsqeVZAOukvSPTx4F5W6jdtJx5WWcW96Q-Kv7o6HJdSnCB231DqeOIhL5pkNi3luHsqouJa~mkzwI4gNhyaM87F-khsrDZ7f0rGDvV4RimjPwDyavWjG0fJ1h~kuhIV9d1DNIFNmPatkKfSk130T8HuEwUKoetGbCBB7t011dRfYxsA2JiUSFv3SZ6C0epZeAdzhvs3RGOtb~hWcSY-DzKyh5a1rpq42iSyNVaUEoEM~Gd7cbDjgpoE9cCvk4Gz77Rtv4wy90smNGm3aWPeOlEIYYKI5wbGAKoGVm~L2yRGPnjS75PA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPhone 14",
+          "price": 799,
+          "image": "https://s3-alpha-sig.figma.com/img/ebcf/f4f8/47054bcbacc7d78b73b82d0bda3a1750?Expires=1696809600&Signature=e9EixXSPxNHpCznEmLMvofiGIzPzgmm5kIEk3CQfTbdiT26~RRxcsEqe0FQxoE3zkHMGVYWZzg4X21HZHPZbpNtO-8ZRTx0xINbwS6CUXgqGL8tp8qwya7QnpvdafjK0Vetc3PqqR6JbwgDWWtW9ZUUu9y5CK4xcsh1gQiD8-FpUbqLeH7jYavw8aLqMY~4J0INXc~tEzcY-oei6~1AUrKRzCckD32~lYOoUoIbrbSP7FKECknBCyBQuvyK5XnPL-k7KsjkbrRWpUXm0N52maoSlTfEuPLXFX726ElJJ-RCaSNdk~bONqBZmr~I9RlsZhPHTuBS3Xfo7c40JVbyrjw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPhone 13",
+          "price": 599,
+          "image": "https://s3-alpha-sig.figma.com/img/f512/544e/889ffba42bbecdb8ef9160788f20fc85?Expires=1696809600&Signature=jDffS8wQgHUlDjTLxE7ApoohzDkT3-y4fESdwm7EwaWfJ094miiWnTODRCOWhLw5~9Jgm-~tC~TgfnL1q3zuFbroAhyMIgWYcLcaNc2yDhKUXnmVsWdnSuYL7tOnQWL4TJPGBR5SDIMCYg2wVXTKDRvU1i5Wqj3KaX~zCTiygwcdE2Sl5FQyHo36sjOSreg3xDwbT~lOjZStkLk7-K36z32ln6AMfMelLqR18lZasrv~KM1xNtVM5T3hnc8yN0ZHOg2wVPJFWBNq1PspMKqB~o0rzOSScCl~0oJflPtuZyE~CYhbfhRQ88qnDCBV4LBTeN9U0SKW~8Rg9i5R8Mm2SQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        },
+        {
+          "name": "iPhone 12",
+          "price": 599,
+          "image": "https://s3-alpha-sig.figma.com/img/e239/a0ca/277ad8b145455ac53a58cd0378c5b4b2?Expires=1696809600&Signature=l1C4ZDMwwXCrU2-NeZ4okLv0JA1-Thoz6tuL5eozew5ReKJ013TRNkl-zw26ECmjXbaJNXDBBfQy4XlwKHPpJQnWSRyn0fQ~Z2jRMI4zTQ8wRIyi1ErJ--HP~5p2uUh7GNiTLo8Vm8rp~BvXWpZp6zPxo9~39bpxTb5TfnRpB0ZscshonRKgGD8fMWa8t4lzYXvICN1dv7Ec24vgfZCKnodz5lJ83IyvIcnrI6G1Ri1oEN1DpPzJfZADWbfqdLso8OT8RRMI5XtRTqsEhato8ydE91B-KXqTwihLlG-lFJ1DppWtFCkp4aETCmARWDewHM-5MXeytuRy7Dcs~iwosg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+        }
+      ]
+    },
+    {
+      "name": "iPad"
+    },
+    {
+      "name": "Mac"
+    },
+    {
+      "name": "Watch"
+    },
+    {
+      "name": "Vision"
+    },
+    {
+      "name": "Air Pods"
+    },
+    {
+      "name": "TV & Home"
+    },
+    {
+      "name": "Entertainment"
+    },
+    {
+      "name": "Accessory"
+    }
+  ]
+}
